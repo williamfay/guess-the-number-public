@@ -1,0 +1,32 @@
+{
+  "name": "guess-the-number-reduced",
+  "version": "1.0.0",
+  "description": "A simple number guessing game on the command-line.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BurlingtonCodeAcademy/guess-the-number-reduced.git"
+  },
+  "prettier": {
+    "tabWidth": 2,
+    "semi": true,
+    "singleQuote": true,
+    "trailingComma": "es5",
+    "bracketSpacing": true,
+    "jsxBracketSameLine": false
+  },
+  "keywords": [
+    "nodejs",
+    "games",
+    "learn-to-program"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BurlingtonCodeAcademy/guess-the-number-reduced/issues"
+  },
+  "homepage": "https://github.com/BurlingtonCodeAcademy/guess-the-number-reduced#readme"
+}
